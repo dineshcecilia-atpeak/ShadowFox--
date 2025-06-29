@@ -1,33 +1,58 @@
-# ShadowFox--
-ShadowFox Java Internship --
+# 🦊 ShadowFox Java Internship
 
-➡️ Task Level (Beginner): 
+A curated collection of projects completed during my internship at **ShadowFox Technologies**, focused on core Java development, GUI design, database integration, and real-time communication.
 
-1)Enhanced Console-based Calculator:
-Develop a console-based calculator that includes basic arithmetic operations (addition, subtraction, multiplication, division) along with additional functionalities such as scientific calculations (e.g., square root, exponentiation) and unit conversions (e.g., temperature, currency).
+---
 
-Key Learning: Basic Java syntax, methods, error handling, and additional mathematical operations.
+## 🔰 Beginner-Level Tasks
 
-2)Simple Contact Management System:
-Create a simple command-line contact management system using Java. Allow users to add, view, update, and delete contacts. Store contact information like name, phone number, and email address in memory (no database required).
+### ✅ 1. Enhanced Console-Based Calculator  
+A console-based calculator that supports:
+- Basic operations: addition, subtraction, multiplication, division  
+- Scientific features: square root, exponentiation  
+- Unit conversions: temperature, currency  
 
-Key Learning: Basic CRUD operations, user input/output, array or ArrayList data structures.
+**Key Learning:** Java syntax, methods, error handling, and logic building.
 
-➡️ Task Level (Intermediate): 
+---
 
-2)Inventory Management System with Basic GUI:
-Develop an Inventory Management System with a basic Graphical User Interface (GUI) using JavaFX or Swing. Implement functionalities like adding, updating, and deleting inventory items.
+### ✅ 2. Contact Management System (CLI)  
+A simple contact manager via the terminal:
+- Add, view, update, and delete contacts  
+- Stores name, phone number, and email using ArrayList  
 
-Key Learning: GUI design, event handling, basic CRUD operations in a graphical environment.
+**Key Learning:** CRUD operations, user I/O, data structures.
 
-3)Library Management System with Data Persistence (SQLite): Enhance the Library Management System with features like user accounts, book recommendations, and integration with an externalbook information API (optional). Use SQLite for data persistence
-instead of a full-fledged database.
+---
 
-Key Learning: Data persistence with SQLite, API integration (optional), user management.
+## ⚙️ Intermediate-Level Tasks
 
-➡️ Task Level (Advanced): (Do any 1 task out of 3)
+### ✅ 3. Inventory Management System (GUI – Swing)  
+A desktop-based inventory manager built using Java Swing:
+- Add, update, and remove items  
+- Simple and clean GUI for inventory handling  
 
-2)Real-time Chat Application with Java Socket Programming: Build a real-time chat application using Java Socket Programming.
-Allow multiple users to join chat rooms, send messages, and receive instant updates.
+**Key Learning:** GUI design, Java Swing components, event-driven programming.
 
-Key Learning: Networking fundamentals, socket programming, real-time communication.
+---
+
+### ✅ 4. Library Management System with SQLite  
+A library system with:
+- User accounts  
+- Persistent data storage using SQLite  
+- (Optional) Integration with external book APIs  
+
+**Key Learning:** SQLite integration, data persistence, optional API usage.
+
+---
+
+## 🚀 Advanced-Level Task
+
+### ✅ 5. Real-Time Chat Application using Java Sockets  
+A multi-user chat application:
+- Real-time message exchange using sockets  
+- Server-client communication model  
+
+**Key Learning:** Networking fundamentals, socket programming, multithreading in Java.
+
+---
